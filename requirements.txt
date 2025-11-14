@@ -8,6 +8,5 @@ email-validator==2.1.1
 WTForms==3.1.2
 SQLAlchemy==2.0.25
 python-dotenv==1.0.1
-
 # For production / deployment
 gunicorn==21.2.0
