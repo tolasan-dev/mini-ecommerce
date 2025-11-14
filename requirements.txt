@@ -11,6 +11,5 @@ python-dotenv==1.0.1
 
 # For production / deployment
 gunicorn==21.2.0
-
 # Add this
 requests
